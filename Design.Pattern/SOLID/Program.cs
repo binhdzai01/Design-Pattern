@@ -13,7 +13,3 @@ Console.WriteLine("The SOLID Design Principles");
 //Liskov Substitution Principle
 //var lspDemo = new LSPDemo();
 //lspDemo.Demo();
-
-
-var research = new Research();
-research.Demo();
